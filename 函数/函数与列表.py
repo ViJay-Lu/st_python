@@ -1,4 +1,4 @@
-"""eg1:简单使用方式"""
+"""eg1:简单使用方式--test"""
 def greet_user(users):
     """向列表中的每位用户都发出消息"""
     for name in users:
