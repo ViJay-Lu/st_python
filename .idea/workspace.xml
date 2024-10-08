@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="880a55d5-cefb-40c0-8209-9e9ad5c82bb9" name="更改" comment="st_py_code">
-      <change afterPath="$PROJECT_DIR$/.idea/ST_Python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="880a55d5-cefb-40c0-8209-9e9ad5c82bb9" name="更改" comment="mdf-test">
+      <change afterPath="$PROJECT_DIR$/Chapter_9_类/01_创建dog类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_9_类/02_使用类和实例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/函数/传递任意数量实参.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/函数/位置参数和任意参数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/函数/导入函数模块/makeing_pizza.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/函数/导入函数模块/pizza.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +28,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;WeijieLU&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/WeijieLU/ST_Python.git&quot;,
+    &quot;accountId&quot;: &quot;80f2e674-51fd-47a0-813d-e3caadd14f11&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -40,12 +53,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.02_使用类和实例.executor": "Run",
     "Python.if语句.executor": "Run",
+    "Python.makeing_pizza.executor": "Run",
+    "Python.传递任意数量实参.executor": "Run",
+    "Python.位置参数和任意参数.executor": "Run",
     "Python.元组.executor": "Run",
     "Python.函数与列表.executor": "Run",
     "Python.函数结合while.executor": "Run",
     "Python.列表.executor": "Run",
     "Python.列表切片.executor": "Run",
+    "Python.创建dog类.executor": "Run",
     "Python.字典.executor": "Run",
     "Python.字典嵌套.executor": "Run",
     "Python.字符串.executor": "Run",
@@ -62,7 +80,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "settings.sync",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -124,7 +142,7 @@
       <workItem from="1727152196190" duration="3204000" />
       <workItem from="1727418514579" duration="9289000" />
       <workItem from="1727674415759" duration="12524000" />
-      <workItem from="1728361498250" duration="4524000" />
+      <workItem from="1728361498250" duration="13041000" />
     </task>
     <task id="LOCAL-00001" summary="st_py_code">
       <option name="closed" value="true" />
@@ -134,19 +152,103 @@
       <option name="project" value="LOCAL" />
       <updated>1728365219035</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="st_py_code">
+      <option name="closed" value="true" />
+      <created>1728366096795</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728366096795</updated>
+    </task>
+    <task id="LOCAL-00003" summary="mdf">
+      <option name="closed" value="true" />
+      <created>1728368007791</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728368007791</updated>
+    </task>
+    <task id="LOCAL-00004" summary="mdf">
+      <option name="closed" value="true" />
+      <created>1728368299530</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728368299530</updated>
+    </task>
+    <task id="LOCAL-00005" summary="mdf">
+      <option name="closed" value="true" />
+      <created>1728368466892</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728368466892</updated>
+    </task>
+    <task id="LOCAL-00006" summary="mdf-test">
+      <option name="closed" value="true" />
+      <created>1728370143020</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728370143020</updated>
+    </task>
+    <task id="LOCAL-00007" summary="mdf-test">
+      <option name="closed" value="true" />
+      <created>1728370669604</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728370669604</updated>
+    </task>
+    <task id="LOCAL-00008" summary="mdf-test">
+      <option name="closed" value="true" />
+      <created>1728370703379</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1728370703379</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="st_py_code" />
-    <option name="LAST_COMMIT_MESSAGE" value="st_py_code" />
+    <MESSAGE value="mdf" />
+    <MESSAGE value="mdf-test" />
+    <option name="LAST_COMMIT_MESSAGE" value="mdf-test" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ST_Python$.coverage" NAME="函数与列表 覆盖结果" MODIFIED="1728364770747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/函数" />
+    <SUITE FILE_PATH="coverage/ST_Python$makeing_pizza.coverage" NAME="makeing_pizza 覆盖结果" MODIFIED="1728373047766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/函数/导入函数模块" />
+    <SUITE FILE_PATH="coverage/ST_Python$.coverage" NAME="位置参数和任意参数 覆盖结果" MODIFIED="1728372391372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/函数" />
     <SUITE FILE_PATH="coverage/ST_Python$if.coverage" NAME="if语句 覆盖结果" MODIFIED="1727681168906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ST_Python$while.coverage" NAME="函数结合while 覆盖结果" MODIFIED="1728363712315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/函数" />
+    <SUITE FILE_PATH="coverage/ST_Python$dog.coverage" NAME="创建dog类 覆盖结果" MODIFIED="1728373732269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_9_类" />
+    <SUITE FILE_PATH="coverage/ST_Python$02_.coverage" NAME="02_使用类和实例 覆盖结果" MODIFIED="1728375373171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_9_类" />
   </component>
 </project>
