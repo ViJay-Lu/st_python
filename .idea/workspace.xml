@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="880a55d5-cefb-40c0-8209-9e9ad5c82bb9" name="更改" comment="add-new st_code">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chapter_10_IO/03_写文件.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_10_IO/03_写文件.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -147,7 +146,7 @@
       <workItem from="1728361498250" duration="14048000" />
       <workItem from="1728441007891" duration="4192000" />
       <workItem from="1728540036754" duration="8632000" />
-      <workItem from="1728550716065" duration="88000" />
+      <workItem from="1728550716065" duration="209000" />
     </task>
     <task id="LOCAL-00001" summary="st_py_code">
       <option name="closed" value="true" />
@@ -245,7 +244,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728544804997</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add-new st_code">
+      <option name="closed" value="true" />
+      <created>1728550820450</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1728550820450</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
