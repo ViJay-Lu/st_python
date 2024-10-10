@@ -1,5 +1,18 @@
 from car import Car
 from car import ElectricCar
+"""
+#一个模块导入多个类的写法,用","分隔
+from car import Car,ElectricCar,Battery
+
+#也可以导入整个模块
+import car
+
+#导入模块中所有类
+from car import *
+"""
+
+
+
 
 """
 2024 Bmw X6

@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="880a55d5-cefb-40c0-8209-9e9ad5c82bb9" name="更改" comment="add-new st_code">
-      <change afterPath="$PROJECT_DIR$/Chapter_9_类/03_继承.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_9_类/04_python2.7类与继承的写法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_9_类/05_导入类/05_my_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_9_类/05_导入类/car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_9_类/06_python标准库.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_9_类/python风格" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_9_类/05_导入类/05_my_car.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_9_类/05_导入类/05_my_car.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +53,7 @@
     "Python.02_使用类和实例.executor": "Run",
     "Python.03_继承.executor": "Run",
     "Python.05_my_car.executor": "Run",
+    "Python.06_python标准库.executor": "Run",
     "Python.if语句.executor": "Run",
     "Python.makeing_pizza.executor": "Run",
     "Python.传递任意数量实参.executor": "Run",
@@ -144,6 +144,7 @@
       <workItem from="1727674415759" duration="12524000" />
       <workItem from="1728361498250" duration="14048000" />
       <workItem from="1728441007891" duration="4192000" />
+      <workItem from="1728540036754" duration="2273000" />
     </task>
     <task id="LOCAL-00001" summary="st_py_code">
       <option name="closed" value="true" />
@@ -258,9 +259,12 @@
     <SUITE FILE_PATH="coverage/ST_Python$05_my_car.coverage" NAME="05_my_car 覆盖结果" MODIFIED="1728444004849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_9_类/05_导入类" />
     <SUITE FILE_PATH="coverage/ST_Python$.coverage" NAME="位置参数和任意参数 覆盖结果" MODIFIED="1728372391372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/函数" />
     <SUITE FILE_PATH="coverage/ST_Python$03_.coverage" NAME="03_继承 覆盖结果" MODIFIED="1728443324365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_9_类" />
+    <SUITE FILE_PATH="coverage/vijay$06_python.coverage" NAME="06_python标准库 覆盖结果" MODIFIED="1728542141538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_9_类" />
     <SUITE FILE_PATH="coverage/ST_Python$if.coverage" NAME="if语句 覆盖结果" MODIFIED="1727681168906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/vijay$.coverage" NAME="遍历字典 覆盖结果" MODIFIED="1728541887170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/字典" />
     <SUITE FILE_PATH="coverage/ST_Python$while.coverage" NAME="函数结合while 覆盖结果" MODIFIED="1728363712315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/函数" />
     <SUITE FILE_PATH="coverage/ST_Python$dog.coverage" NAME="创建dog类 覆盖结果" MODIFIED="1728373732269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_9_类" />
+    <SUITE FILE_PATH="coverage/vijay$03_.coverage" NAME="03_继承 覆盖结果" MODIFIED="1728540070380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_9_类" />
     <SUITE FILE_PATH="coverage/ST_Python$02_.coverage" NAME="02_使用类和实例 覆盖结果" MODIFIED="1728375598423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_9_类" />
   </component>
 </project>
