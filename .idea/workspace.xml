@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="880a55d5-cefb-40c0-8209-9e9ad5c82bb9" name="更改" comment="add-new st_code" />
+    <list default="true" id="880a55d5-cefb-40c0-8209-9e9ad5c82bb9" name="更改" comment="add-new st_code">
+      <change afterPath="$PROJECT_DIR$/Chapter_10_IO/存储数据/05_number_writer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_10_IO/存储数据/06_remember_me.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,46 +47,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.01_openfile.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_使用类和实例.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_逐行读取文件.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_写文件.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_继承.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04_处理ZeroDivisionError异常.executor&quot;: &quot;Run&quot;,
-    &quot;Python.05_my_car.executor&quot;: &quot;Run&quot;,
-    &quot;Python.06_python标准库.executor&quot;: &quot;Run&quot;,
-    &quot;Python.if语句.executor&quot;: &quot;Run&quot;,
-    &quot;Python.makeing_pizza.executor&quot;: &quot;Run&quot;,
-    &quot;Python.传递任意数量实参.executor&quot;: &quot;Run&quot;,
-    &quot;Python.位置参数和任意参数.executor&quot;: &quot;Run&quot;,
-    &quot;Python.元组.executor&quot;: &quot;Run&quot;,
-    &quot;Python.函数与列表.executor&quot;: &quot;Run&quot;,
-    &quot;Python.函数结合while.executor&quot;: &quot;Run&quot;,
-    &quot;Python.列表.executor&quot;: &quot;Run&quot;,
-    &quot;Python.列表切片.executor&quot;: &quot;Run&quot;,
-    &quot;Python.创建dog类.executor&quot;: &quot;Run&quot;,
-    &quot;Python.字典.executor&quot;: &quot;Run&quot;,
-    &quot;Python.字典嵌套.executor&quot;: &quot;Run&quot;,
-    &quot;Python.字符串.executor&quot;: &quot;Run&quot;,
-    &quot;Python.循环.executor&quot;: &quot;Run&quot;,
-    &quot;Python.数字.executor&quot;: &quot;Run&quot;,
-    &quot;Python.数字列表.executor&quot;: &quot;Run&quot;,
-    &quot;Python.数据类型转换.executor&quot;: &quot;Run&quot;,
-    &quot;Python.遍历字典.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.01_openfile.executor": "Run",
+    "Python.02_使用类和实例.executor": "Run",
+    "Python.02_逐行读取文件.executor": "Run",
+    "Python.03_写文件.executor": "Run",
+    "Python.03_继承.executor": "Run",
+    "Python.04_处理ZeroDivisionError异常.executor": "Run",
+    "Python.05_my_car.executor": "Run",
+    "Python.05_number_writer.executor": "Run",
+    "Python.06_python标准库.executor": "Run",
+    "Python.06_remember_me.executor": "Run",
+    "Python.if语句.executor": "Run",
+    "Python.makeing_pizza.executor": "Run",
+    "Python.传递任意数量实参.executor": "Run",
+    "Python.位置参数和任意参数.executor": "Run",
+    "Python.元组.executor": "Run",
+    "Python.函数与列表.executor": "Run",
+    "Python.函数结合while.executor": "Run",
+    "Python.列表.executor": "Run",
+    "Python.列表切片.executor": "Run",
+    "Python.创建dog类.executor": "Run",
+    "Python.字典.executor": "Run",
+    "Python.字典嵌套.executor": "Run",
+    "Python.字符串.executor": "Run",
+    "Python.循环.executor": "Run",
+    "Python.数字.executor": "Run",
+    "Python.数字列表.executor": "Run",
+    "Python.数据类型转换.executor": "Run",
+    "Python.遍历字典.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.sync",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\workspace\py\ST_PYTHON\ST_Python\数字类型" />
@@ -144,7 +150,7 @@
       <workItem from="1728361498250" duration="14048000" />
       <workItem from="1728441007891" duration="4192000" />
       <workItem from="1728540036754" duration="8632000" />
-      <workItem from="1728550716065" duration="474000" />
+      <workItem from="1728550716065" duration="2315000" />
     </task>
     <task id="LOCAL-00001" summary="st_py_code">
       <option name="closed" value="true" />
@@ -266,7 +272,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728551108750</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="add-new st_code">
+      <option name="closed" value="true" />
+      <created>1728551200128</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1728551200128</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -307,13 +321,15 @@
     <SUITE FILE_PATH="coverage/vijay$02_.coverage" NAME="02_逐行读取文件 覆盖结果" MODIFIED="1728546275894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_10_IO" />
     <SUITE FILE_PATH="coverage/ST_Python$05_my_car.coverage" NAME="05_my_car 覆盖结果" MODIFIED="1728444004849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_9_类/05_导入类" />
     <SUITE FILE_PATH="coverage/ST_Python$.coverage" NAME="位置参数和任意参数 覆盖结果" MODIFIED="1728372391372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/函数" />
+    <SUITE FILE_PATH="coverage/vijay$05_number_writer.coverage" NAME="05_number_writer 覆盖结果" MODIFIED="1728551756679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_10_IO/存储数据" />
     <SUITE FILE_PATH="coverage/vijay$06_python.coverage" NAME="06_python标准库 覆盖结果" MODIFIED="1728542141538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_9_类" />
     <SUITE FILE_PATH="coverage/vijay$04_ZeroDivisionError.coverage" NAME="04_处理ZeroDivisionError异常 覆盖结果" MODIFIED="1728548852849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_10_IO/异常处理" />
     <SUITE FILE_PATH="coverage/ST_Python$while.coverage" NAME="函数结合while 覆盖结果" MODIFIED="1728363712315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/函数" />
     <SUITE FILE_PATH="coverage/ST_Python$makeing_pizza.coverage" NAME="makeing_pizza 覆盖结果" MODIFIED="1728373047766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/函数/导入函数模块" />
     <SUITE FILE_PATH="coverage/ST_Python$03_.coverage" NAME="03_继承 覆盖结果" MODIFIED="1728443324365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_9_类" />
+    <SUITE FILE_PATH="coverage/vijay$06_remember_me.coverage" NAME="06_remember_me 覆盖结果" MODIFIED="1728552971858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_10_IO/存储数据" />
     <SUITE FILE_PATH="coverage/ST_Python$if.coverage" NAME="if语句 覆盖结果" MODIFIED="1727681168906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/vijay$.coverage" NAME="遍历字典 覆盖结果" MODIFIED="1728541887170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/字典" />
+    <SUITE FILE_PATH="coverage/vijay$.coverage" NAME="数据类型转换 覆盖结果" MODIFIED="1728551622423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ST_Python$dog.coverage" NAME="创建dog类 覆盖结果" MODIFIED="1728373732269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_9_类" />
     <SUITE FILE_PATH="coverage/vijay$03_.coverage" NAME="03_写文件 覆盖结果" MODIFIED="1728546896372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_10_IO" />
     <SUITE FILE_PATH="coverage/ST_Python$02_.coverage" NAME="02_使用类和实例 覆盖结果" MODIFIED="1728375598423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_9_类" />
