@@ -6,7 +6,7 @@ with open("test_file.txt") as f:
 
 #相对路径找文件
 #此处的\\,是转义字符。
-# 否则\C处会警告：SyntaxWarning: invalid escape sequence '\C'
+# 否则\C处会警告：SyntaxWarning: invalid escape sequence '\C' (无效的转义序列)
 # \t直接报错，被认为是制表符。这样就找不到对应的目录文件
 
 with open('..\\Chapter_9_class\\test_file.txt') as file_object:

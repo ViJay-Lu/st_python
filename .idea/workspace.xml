@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="880a55d5-cefb-40c0-8209-9e9ad5c82bb9" name="更改" comment="add-new st_code">
-      <change afterPath="$PROJECT_DIR$/Chapter_10_IO/01_openfile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_10_IO/test_file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_9_class/test_file.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_9_类/01_创建dog类.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_9_class/01_创建dog类.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_9_类/02_使用类和实例.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_9_class/02_使用类和实例.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_9_类/03_继承.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_9_class/03_继承.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_9_类/04_python2.7类与继承的写法.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_9_class/04_python2.7类与继承的写法.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_9_类/05_导入类/05_my_car.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_9_class/05_导入类/05_my_car.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_9_类/05_导入类/car.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_9_class/05_导入类/car.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_9_类/06_python标准库.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_9_class/06_python标准库.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_9_类/python风格" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_9_class/python风格" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_10_IO/01_openfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_10_IO/01_openfile.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +142,7 @@
       <workItem from="1727674415759" duration="12524000" />
       <workItem from="1728361498250" duration="14048000" />
       <workItem from="1728441007891" duration="4192000" />
-      <workItem from="1728540036754" duration="4632000" />
+      <workItem from="1728540036754" duration="4693000" />
     </task>
     <task id="LOCAL-00001" summary="st_py_code">
       <option name="closed" value="true" />
@@ -235,7 +224,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728542363081</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add-new st_code">
+      <option name="closed" value="true" />
+      <created>1728544748955</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1728544748955</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
