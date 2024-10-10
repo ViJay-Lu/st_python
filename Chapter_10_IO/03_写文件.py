@@ -1,6 +1,6 @@
 file_name = 'test_file1.txt'
 
-#w：如果文件存在则清空文件，不存在则创建.
+#w：如果文件存在则清空文件，不存在则创建
 #with open(file_name, 'w') as file_object:
 
 #r+.读取和写入。写入时，会从头覆盖文件.
