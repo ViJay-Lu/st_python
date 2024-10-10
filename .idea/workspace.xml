@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="880a55d5-cefb-40c0-8209-9e9ad5c82bb9" name="更改" comment="add-new st_code">
-      <change afterPath="$PROJECT_DIR$/Chapter_10_IO/02_逐行读取文件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_10_IO/03_写文件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_10_IO/异常处理/04_处理ZeroDivisionError异常.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_10_IO/01_openfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_10_IO/01_openfile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_10_IO/test_file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_10_IO/test_file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_10_IO/03_写文件.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_10_IO/03_写文件.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,46 +46,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.01_openfile.executor": "Run",
-    "Python.02_使用类和实例.executor": "Run",
-    "Python.02_逐行读取文件.executor": "Run",
-    "Python.03_写文件.executor": "Run",
-    "Python.03_继承.executor": "Run",
-    "Python.04_处理ZeroDivisionError异常.executor": "Run",
-    "Python.05_my_car.executor": "Run",
-    "Python.06_python标准库.executor": "Run",
-    "Python.if语句.executor": "Run",
-    "Python.makeing_pizza.executor": "Run",
-    "Python.传递任意数量实参.executor": "Run",
-    "Python.位置参数和任意参数.executor": "Run",
-    "Python.元组.executor": "Run",
-    "Python.函数与列表.executor": "Run",
-    "Python.函数结合while.executor": "Run",
-    "Python.列表.executor": "Run",
-    "Python.列表切片.executor": "Run",
-    "Python.创建dog类.executor": "Run",
-    "Python.字典.executor": "Run",
-    "Python.字典嵌套.executor": "Run",
-    "Python.字符串.executor": "Run",
-    "Python.循环.executor": "Run",
-    "Python.数字.executor": "Run",
-    "Python.数字列表.executor": "Run",
-    "Python.数据类型转换.executor": "Run",
-    "Python.遍历字典.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "settings.sync",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.01_openfile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_使用类和实例.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_逐行读取文件.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_写文件.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_继承.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_处理ZeroDivisionError异常.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05_my_car.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06_python标准库.executor&quot;: &quot;Run&quot;,
+    &quot;Python.if语句.executor&quot;: &quot;Run&quot;,
+    &quot;Python.makeing_pizza.executor&quot;: &quot;Run&quot;,
+    &quot;Python.传递任意数量实参.executor&quot;: &quot;Run&quot;,
+    &quot;Python.位置参数和任意参数.executor&quot;: &quot;Run&quot;,
+    &quot;Python.元组.executor&quot;: &quot;Run&quot;,
+    &quot;Python.函数与列表.executor&quot;: &quot;Run&quot;,
+    &quot;Python.函数结合while.executor&quot;: &quot;Run&quot;,
+    &quot;Python.列表.executor&quot;: &quot;Run&quot;,
+    &quot;Python.列表切片.executor&quot;: &quot;Run&quot;,
+    &quot;Python.创建dog类.executor&quot;: &quot;Run&quot;,
+    &quot;Python.字典.executor&quot;: &quot;Run&quot;,
+    &quot;Python.字典嵌套.executor&quot;: &quot;Run&quot;,
+    &quot;Python.字符串.executor&quot;: &quot;Run&quot;,
+    &quot;Python.循环.executor&quot;: &quot;Run&quot;,
+    &quot;Python.数字.executor&quot;: &quot;Run&quot;,
+    &quot;Python.数字列表.executor&quot;: &quot;Run&quot;,
+    &quot;Python.数据类型转换.executor&quot;: &quot;Run&quot;,
+    &quot;Python.遍历字典.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\workspace\py\ST_PYTHON\ST_Python\数字类型" />
@@ -151,6 +147,7 @@
       <workItem from="1728361498250" duration="14048000" />
       <workItem from="1728441007891" duration="4192000" />
       <workItem from="1728540036754" duration="8632000" />
+      <workItem from="1728550716065" duration="88000" />
     </task>
     <task id="LOCAL-00001" summary="st_py_code">
       <option name="closed" value="true" />
