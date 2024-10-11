@@ -4,7 +4,7 @@ file_name = 'user_info.json'
 
 try:
     with open(file_name) as f:
-        username = json.loads(f)
+        username = json.load(f)
 except FileNotFoundError:
     username = input('please enter your username: ')
     with open(file_name,'w') as f:
