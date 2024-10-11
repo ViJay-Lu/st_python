@@ -1,4 +1,4 @@
-from 字典.字典嵌套 import location
+from dict.字典嵌套 import location
 
 
 def make_pizza(size,*tippings):
